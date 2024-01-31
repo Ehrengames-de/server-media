@@ -1,0 +1,70 @@
+{
+"server_name": "primeoase",
+"nice_name": "PrimeOase",
+"direct_ip": "primeoase.net",
+"server_wildcards": [
+"vortexhost.de",
+],
+"supported_languages": [
+"de"
+],
+"social": {
+"discord": "https://discord.gg/ZGGddHSJwX",
+"teamspeak": "primeoase.net",
+"youtube": "https://www.youtube.com/@primeoasenet",
+},
+"build": {
+"name": "BuildFFA",
+"color": "#e8a507",
+"command": "/game bffa",
+"versions": "1.8<1.14.4"
+},
+"gungame": {
+"name": "GunGame",
+"color": "#FBB300",
+"command": "/game gungame",
+"versions": "1.8<1.14.4"
+},
+"mlgrush": {
+"name": "CityRace",
+"color": "#de0b39",
+"command": "/game cityrace",
+"versions": "1.8<1.14.4"
+},
+"welt-untergang": {
+"name": "MoveMe",
+"color": "#0bde19",
+"command": "/game moveme",
+"versions": "1.8<1.14.4"
+},
+"onehit": {
+"name": "CityBuild",
+"color": "#f705ab",
+"command": "/game citybuild",
+"versions": "1.8<1.14.4"
+},
+"skypvp": {
+"name": "MLGRush",
+"color": "#f7df05",
+"command": "/game mlgrush",
+"versions": "1.16.5<1.20.4"
+},
+"survival": {
+"name": "SkyWars",
+"color": "#0d6914",
+"command": "/game skywars",
+"versions": "1.16.5<1.20.4"
+}
+},
+"brand": {
+"primary": "#497cb1",
+"background": "#245587",
+"text": "#4646cf"
+},
+"location": {
+"city": "Frankfurt",
+"country": "Germany",
+"country_code": "DE"
+},
+"yt_trailer": "smxGMIShrvE"
+}
